@@ -5,9 +5,7 @@ import outcome from '../../assets/outcome.svg';
 import total from '../../assets/total.svg';
 
 import api from '../../services/api';
-
 import Header from '../../components/Header';
-
 import formatValue from '../../utils/formatValue';
 
 import { Container, CardContainer, Card, TableContainer } from './styles';
